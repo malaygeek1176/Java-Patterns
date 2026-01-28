@@ -29,4 +29,3 @@ public class Geeks {
         printPattern(n);
     }
 }
-// Add Square Hollow Pattern
